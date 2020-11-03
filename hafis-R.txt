@@ -2,3 +2,6 @@ masa depan
   1. bekerja sesuai harapan
   2. memenangkan lomba it atau lks
   3. lulus dapat kerja sesuai harapan
+menambah ilmu 
+  . java
+  . javascript
